@@ -1,0 +1,23 @@
+body{
+	min-height: 5000px;
+}
+
+/* Navbar */
+navbar .container{
+	padding: 10px 0;
+	font: size: 18px;
+}
+
+li {
+	font: weight: 500;
+}
+
+.navba .container .navbar-brand {
+	font-size: 30px;
+	font-family: ;
+}
+/* jumbotrom */
+.jumbotrom{
+	padding-top: 15rem;
+	background-color: #e2edff;
+}
